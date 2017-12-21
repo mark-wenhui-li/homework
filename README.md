@@ -1,4 +1,6 @@
 # homework
 this is my little book
 
-this is first udpated on master.
+this is first updated on master.
+
+this is updated on ic01.
